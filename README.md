@@ -57,8 +57,8 @@ Passionate about building scalable systems and tackling complex technical challe
     </picture>
   </a>
   <a href="https://leetcode.com/AbdulrahmanSallam" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/32/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"
-         alt="LeetCode Profile" title="LeetCode Profile" width="32" height="32" />
+    <img src="https://trypear.ai/images/leetcode.png"
+         alt="LeetCode Profile" title="LeetCode Profile"  height="32" />
   </a>
 </p>
 
