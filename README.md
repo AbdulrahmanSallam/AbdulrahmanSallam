@@ -64,12 +64,3 @@ Passionate about building scalable systems and tackling complex technical challe
 
 **📧 Email:** [abdulrahman.sallam.official@gmail.com](mailto:abdulrahman.sallam.official@gmail.com)  
 **📍 Location:** Gharbia, Egypt
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulrahmanSallam&show_icons=true&theme=default" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulrahmanSallam&layout=compact&theme=default" alt="Top Languages" height="160" />
-</p>
