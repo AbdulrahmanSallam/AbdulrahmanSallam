@@ -7,7 +7,7 @@ Passionate about building scalable systems and tackling complex technical challe
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Technologies
 <p align="left">
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" />
@@ -40,25 +40,14 @@ Passionate about building scalable systems and tackling complex technical challe
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/abdulrahman-sallam-9396bb347" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-    </picture>
-  </a>
-  <a href="https://www.github.com/AbdulrahmanSallam" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-    </picture>
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" height="35" alt="LinkedIn Profile" title="LinkedIn Profile" />
   </a>
   <a href="https://leetcode.com/AbdulrahmanSallam" target="_blank" rel="noopener noreferrer">
-    <img src="https://trypear.ai/images/leetcode.png"
-         alt="LeetCode Profile" title="LeetCode Profile"  height="32" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+         alt="LeetCode Profile" title="LeetCode Profile" width="35" height="35"  />
   </a>
 </p>
 
